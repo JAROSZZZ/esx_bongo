@@ -7,7 +7,9 @@
 
 ### Requirements
 -mythic_progbar **https://github.com/HalCroves/mythic_progbar**
+
 -pNotify **https://github.com/Nick78111/pNotify**
+
 -es_extended **https://github.com/esx-framework/es_extended**
 # DISCORD
 [Click](https://discord.gg/syEcNqZWBu)
