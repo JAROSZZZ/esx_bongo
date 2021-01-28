@@ -11,6 +11,8 @@
 -pNotify **https://github.com/Nick78111/pNotify**
 
 -es_extended **https://github.com/esx-framework/es_extended**
+
+-3dMe **https://github.com/eblio/3dme**
 # DISCORD
 [Click](https://discord.gg/syEcNqZWBu)
 
